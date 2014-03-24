@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.cartilhaeolica" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Cartilha Eólica</name>
+    <description>
+        Cartilha eólica do RN.
+    </description>
+    <author email="caio.salvdor@smartpublishing.com.br" href="http://cordova.io">
+        Caio - Smartpublishing
+    </author>
+    <preference name="phonegap-version"           value="3.1.0" />          <!-- all: current version of PhoneGap -->
+    
+    <content src="index.html" />
+    <access origin="*" />
+</widget>

@@ -1,0 +1,83 @@
+@media all and (max-width:1200px) and (min-width:400px){
+	
+/****** PAGE2 ******/
+#page2 .t1{	
+	margin-top: 100px;
+}
+#page2 .footer{	
+	bottom: 100px;	
+}
+#page2 .t2{		
+	font-size: 12px;
+}
+#page2 a{		
+	font-size: 15px;
+}
+#page2 img{	
+	margin-top: 30px;
+}
+/****** PAGE4 ******/
+#page4 p{
+	text-indent: 30px;
+	text-align: justify;
+}
+#page4 .caixa-texto{
+	height: 500px;
+	overflow: auto;
+	padding-left: 30px;
+	padding-right: 15px;
+}
+/****** PAGE5 ******/
+#page5 h2 {
+	font-size: 42px;
+	margin-left: 20px;
+	color: rgb(195, 204, 90);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: capitalize;
+	text-shadow: none;
+}
+#page5 .caixa-aspas{
+	float: right;	
+	width: 420px;
+	margin-right: 20px;
+}
+#page5 .caixa-texto{
+	overflow: auto;
+	height: 140px;	
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#page5 .caixa-texto p{
+	color: #fff;	
+	text-align: center;
+	text-transform: none;
+}
+#page5 .container-caixa {
+	float: right;
+	height: 423px;
+	width: 380px;
+	margin-right: 20px;
+	background-image: url('../img/bg-texto.png');
+	background-position: center;
+	background-size: auto 100%;
+	position: absolute;
+	background-repeat: no-repeat;
+	right: 15px;
+	bottom: 240px;
+}
+#page5 .caixa-texto-bg{
+	overflow: auto;
+	height: 397px;
+}
+#page5 .caixa-texto-bg p {
+	text-transform: none;
+	text-align: left;
+	text-indent: 30px;
+	font-size: 16px;
+	line-height: 22px;
+	padding: 30px;
+	padding-top: 10px;
+	color: rgb(52, 72, 93);
+}
+
+}

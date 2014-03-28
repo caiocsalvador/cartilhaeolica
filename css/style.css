@@ -1,0 +1,54 @@
+p{
+	font-size: 15px;
+	font-family: "Gotham";
+	color: rgb(40, 50, 120);
+	line-height: 30px;
+	text-align: left;
+}
+a{
+	font-size: 15px;
+	font-family: "Gotham";
+	line-height: 40px;
+	font-weight: 400 !important;
+}
+ul{
+	list-style: none;
+}
+h1{
+	font-size: 45px;
+	color: rgb(72, 108, 132);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: capitalize;
+	text-align: left;
+	padding: 30px;
+}
+
+ul li{
+	list-style: none;
+}
+#page2 p{
+	text-align: center;
+}
+#page3 h2{
+	font-size: 22px; 
+	color: rgb(182, 83, 75);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: capitalize;
+}
+#page2 .footer{
+	position: absolute;
+	text-align: center;
+}
+#page2 img{
+	width: 74px;
+	height: 55px;	
+}
+#page3 .sumario{
+	margin-top: 50px;
+}
+#page3 h2{
+	padding-left: 35px;
+}
+
+
+

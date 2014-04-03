@@ -144,3 +144,21 @@ h1 {
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
+#page6 {
+	background-image: url('../img/pages/page6.jpg');
+	background-position: center;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+#page7 {
+	background-image: url('../img/pages/page7.jpg');
+	background-position: center;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+#page8 {
+	background-image: url('../img/pages/page8.jpg');
+	background-position: center;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}

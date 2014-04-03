@@ -1,4 +1,4 @@
-function onDeviceReady() {
+$().ready(function(){
 	$('div.pagina').on("swipeleft", function(){		
 		var nextpage = $(this).next('div[data-role="page"]');
 		if (nextpage.length > 0) {	
@@ -29,6 +29,6 @@ function onDeviceReady() {
 		var pagina = ""+nextpage.attr("id")+".html";		
 		nextpage.load(pagina);			
 	});
-}
-
-
+	
+	
+});

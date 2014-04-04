@@ -44,7 +44,7 @@ ul li{
 	position: absolute;
 	text-align: center;
 }
-#page2 img{
+#page2 .bandeira{
 	width: 74px;
 	height: 55px;	
 }

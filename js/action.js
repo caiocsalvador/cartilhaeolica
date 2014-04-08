@@ -1,5 +1,7 @@
 
-	
+	$(document).bind('mobileinit', function(){
+		$.mobile.metaViewportContent = 'width=device-width';
+	});
 	
 	document.addEventListener('deviceready', onDeviceReady, true);
 

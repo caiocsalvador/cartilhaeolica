@@ -1,0 +1,56 @@
+@media all and (max-width:320px){
+p{
+	font-size: 10px !important;
+	line-height: 20px;
+}
+/****** PAGE2 ******/
+#page2 .t2{		
+	margin-bottom: 0px;
+}
+#page2 .footer{
+	bottom: 10px;
+}
+#page2 a{		
+	font-size: 12px;
+}
+#page2 img{	
+	margin-top: 10px;
+}
+/****** PAGE3 ******/
+#page3 h2{
+	font-size: 14px; 	
+}
+a{
+	font-size: 10px;	
+	line-height: 20px;	
+}
+#page3 .sumario{
+	padding-left: 0px;
+	margin-top: 10px;
+}
+#page3 h2 {
+	padding-left: 0px;
+}
+/****** PAGE4 ******/
+#page4 p{
+	text-indent: 10px;
+}
+h1 {
+	font-size: 20px;	
+	padding: 15px;
+	padding-left: 1px;
+}
+#page4 p {
+	text-indent: 10px;
+	text-align: justify;
+	font-size: 10px;
+	line-height: 18px;
+}
+#page4 .caixa-texto {
+	height: 230px;
+	overflow: auto;
+	padding-left: 0px;
+	padding-right: 10px;
+}
+	
+}

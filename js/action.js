@@ -5,15 +5,7 @@
 	
 	document.addEventListener('deviceready', onDeviceReady, true);
 
-	function onDeviceReady() {		
-		
-		$('#slider').cycle({ 
-	   	    fx:     'scrollLeft', 
-	   	    speed:  'slow', 
-	   	    timeout: 10000, 
-		   	next:   '#prox', 
-		    prev:   '#ante' 
-	   	});
+	function onDeviceReady() {	
 		
 		$('div.pagina').on("swipeleft", function(){		
 			var nextpage = $(this).next('div[data-role="page"]');
@@ -60,6 +52,31 @@
 			$.mobile.changePage(nextpage, {transition: "slide",
 				reverse: false} , false, true);
 				
+		});
+		
+		
+		$(document).on('click', '#ante', function() {	
+			var ativoIdx = $('#slider img.ativo').index();	
+			$('#slider img.ativo').fadeOut();
+			$('#slider img.ativo').removeClass('ativo');			
+			$('#slider img').eq(ativoIdx-1).fadeIn();
+			$('#slider img').eq(ativoIdx-1).addClass('ativo');
+			if((ativoIdx-1)==0){
+				$('#ante').hide();
+			}
+			$('#prox').show();
+		});
+		
+		$(document).on('click', '#prox', function() {	
+			var ativoIdx = $('#slider img.ativo').index();	
+			$('#slider img.ativo').fadeOut();
+			$('#slider img.ativo').removeClass('ativo');			
+			$('#slider img').eq(ativoIdx+1).fadeIn();
+			$('#slider img').eq(ativoIdx+1).addClass('ativo');
+			if((ativoIdx+1)==2){
+				$('#prox').hide();
+			}
+			$('#ante').show();
 		});
 		
 		function mudarPagina(pagina){

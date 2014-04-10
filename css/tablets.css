@@ -103,6 +103,7 @@
 	line-height: 22px;
 	padding: 30px;
 	padding-top: 10px;
+	margin-top: 0px;
 	color: rgb(52, 72, 93);
 }
 #page6 .texto-top{
@@ -135,8 +136,18 @@
 	margin-bottom: 0px;
 }
 #page7 .texto-top{
-	width: 400px;
+	width: 55%;
 	float: left;
+	margin-right: 5%;
+	overflow: hidden;
+	height: 310px;
+}
+#page7 .grafico{
+	float: right;
+	width: 40%;
+}
+#page7 .grafico img{
+	width: 100%;
 }
 #page7 .texto-top img{
 	margin-left: 164px;
@@ -145,39 +156,32 @@
 	margin-top: -10px;
 }
 #page7 .caixa-aspas{
-	width: 100%;
-	text-align: center;	
+	width: 60%;
+	text-align: center;
 	overflow: auto;
-	float: left;
-	margin-top: 
+	margin-left: 20%;
+	margin-top: 2%;
+	float: left; 
 }
 #page7 .caixa-aspas .caixa-texto{
-	width: 420px;
-	text-align: center;
-	height: 130px;
-	overflow: auto;
-	margin: 0 auto;
+	width: 100%;
+	text-align: center;	
 }
-#page7 .ultima-linha{
+#page7 .cont-seta{
 	width: 100%;
 	float: left;
-	margin-top: 50px;
+	text-align: center;
+	margin-top: 10px;
 }
-#page7 .ultima-linha .col1{
-	width: 42%;
+#page7 .seta img{
+	text-align: center;
+}
+#page7 .col2{	
+	width: 100%;
 	float: left;
+	margin-top: 2%;	
 }
-#page7 .ultima-linha .chave{	
-	float: left;
-	margin-left: 2%;
-}
-#page7 .ultima-linha .col2{	
-	width: 45%;
-	float: left;
-	margin-left: 2%;
-	margin-top: -30px;
-}
-#page7 .ultima-linha h2{
+#page7 h2{
 	font-size: 30px;
 	color: rgb(195, 204, 90);
 	font-family: "Nexa Bold", sans-serif;
@@ -186,16 +190,33 @@
 	width: 100%;
 	margin-bottom: 10px;
 	margin-top: -10px;
+	text-align: center;
 }
-#page7 .ultima-linha .col2 p{	
+#page7 .col2 p{	
 	height: 110px;
    	overflow: auto;
  	float: left;
 }
-#page7 .ultima-linha .col2 img{
+#page7 .ultima-linha{
+	width: 100%;
 	float: left;
-	margin-left: 120px;
+	margin-top: 2%;
 }
+#page7 .ultima-linha .col1{
+	width: 48%;
+	float: left;
+}
+#page7 .ultima-linha .chave{	
+	float: left;
+	width: 100%;
+	text-align: center;
+}
+#page7 .ultima-linha .nova{
+	width: 48%;
+	float: left;
+	margin-left: 4%;
+}
+
 
 #page8 h2 {
 	font-size: 42px;
@@ -250,15 +271,22 @@
 	padding-top: 10px;
 	color: rgb(52, 72, 93);
 }
+#page8 .obs{
+	position: absolute;
+	bottom: 30px;
+	width: 85%;
+	margin-left: 7%;
+}
 #page9 .texto1{
 	width: 100%;
 	float: left;
-	margin-bottom: 10%;
+	margin-bottom: 2%;
+	text-indent: 20px;
 }
 #page9 .caixa-aspas{
 	margin: 0 auto;
 	width: 60%;	
-	padding-bottom: 10%;	
+	padding-bottom: 2%;	
 }
 #page9 .caixa-texto{
 	overflow: auto;
@@ -341,12 +369,14 @@
 	margin-bottom: 10%;
 	text-align: center;
 }
-#page11 .grafico1 img{
-	width: 80%;
+#page11 .grafico1 img {
+	width: 100%;
 }
 #page11 .grafico2{
-	width: 100%;
+	width: 70%;
+	float: right;
 	text-align: center;
+	margin-top: -35%;
 }
 #page11 .grafico2 img{
 	width: 95%;
@@ -388,7 +418,7 @@
 	text-align: center;
 }
 #page16 .grafico img{
-	width: 60%;
+	width: 50%;
 	margin-bottom: 2%;
 }
 #page17 h2{

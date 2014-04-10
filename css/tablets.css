@@ -392,6 +392,7 @@
 	width: 100%;
 	float: left;
 	text-align: center;
+	margin-top: 10px;
 }
 #page17 .seta img{
 	text-align: center;
@@ -449,6 +450,9 @@
 	font-size: 12px;
 	line-height: 15px;
 }
+#page18 .legenda.branco{
+	color: #fff !important;
+}
 #page18 .caixa-texto{
 	float: left;
 	width: 46%;
@@ -473,7 +477,7 @@
 	width: 54%;
 	margin-right: 5%;
 	margin-bottom: 5%;
-	margin-top: 20%;
+	margin-top: 15%;
 }
 #page19 .caixa-texto p{
 	color: #fff;	
@@ -537,6 +541,17 @@
 	text-align: right;
 	margin-top: 0px;
 }
+#page20 .cont-seta{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+}
+#page20 .seta img{
+	text-align: center;
+}
+
+
 #page21 h2{
 	font-size: 42px;
 	margin-left: 20px;

@@ -109,11 +109,10 @@
 #page6 .texto-top{
 	width: 50%;
 	height: 280px;
-	overflow: auto;
-	right: 75px;
+	overflow: auto;	
 	float: right;	
 	margin-right: 60px;
-	margin-top: 5%;
+	margin-top: 2%;
 }
 #page6 .tabela1{
 	float: left;	

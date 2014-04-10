@@ -22,6 +22,7 @@
 }
 #page2 .footer{	
 	bottom: 100px;	
+	width: 100%;
 }
 #page2 .t2{		
 	font-size: 12px;
@@ -42,6 +43,15 @@
 	overflow: auto;
 	padding-left: 30px;
 	padding-right: 15px;
+}
+#page4 .cont-seta{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+}
+#page4 .seta img{
+	text-align: center;
 }
 /****** PAGE5 ******/
 #page5 h2 {
@@ -96,7 +106,7 @@
 	color: rgb(52, 72, 93);
 }
 #page6 .texto-top{
-	width: 380px;
+	width: 45%;
 	height: 280px;
 	overflow: auto;
 	right: 75px;
@@ -108,17 +118,21 @@
 	float: left;	
 	width: 100%;
 	text-align: center;
-	margin-top: 50px;
+	margin-top: 5%;
 }
 #page6 .tabela2{
 	float: left;	
 	width: 100%;
 	text-align: center;
-	margin-top: 50px;
+	margin-top: 2%;
 }
-#page6.legenda{
+#page6 .legenda{
 	font-size: 12px;
-	text-align: right;
+	font-size: 12px;
+	width: 100%;
+	text-align: center;
+	margin-top: 0px;
+	margin-bottom: 0px;
 }
 #page7 .texto-top{
 	width: 400px;
@@ -477,7 +491,7 @@
 	width: 54%;
 	margin-right: 5%;
 	margin-bottom: 5%;
-	margin-top: 15%;
+	margin-top: 10%;
 }
 #page19 .caixa-texto p{
 	color: #fff;	

@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.cartilhaeolica" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+		xmlns:cdv="http://cordova.apache.org/ns/1.0"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id= "com.smartpublishing.cerne"
+        version   = "1.0.0">
+
+
     <name>CERNE - Cartilha Eólica</name>
     <description>
         Cartilha eólica do RN.

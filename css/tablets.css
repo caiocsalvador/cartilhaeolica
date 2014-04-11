@@ -395,40 +395,40 @@
 #page14 .tabela img{
 	width: 90%;
 }
-#page15 .tabela1{
+#page16 .tabela1{
 	width: 100%;
 	text-align: center;
 }
-#page15 .tabela1 img{
+#page16 .tabela1 img{
 	width: 70%;
 }
-#page15 .tabela2{
+#page16 .tabela2{
 	width: 100%;
 	text-align: center;
 	margin-top: 5%;
 }
-#page15 .tabela2 img{
+#page16 .tabela2 img{
 	width: 60%;
 }
-#page15 .legenda1{
+#page16 .legenda1{
 	margin: 0 auto;
 	width: 70%;
 	text-align: right;
 }
-#page15 .legenda2{
+#page16 .legenda2{
 	margin: 0 auto;
 	width: 60%;
 	float: right;
 }
-#page16 .grafico{
+#page17 .grafico{
 	width: 100%;
 	text-align: center;
 }
-#page16 .grafico img{
+#page17 .grafico img{
 	width: 50%;
 	margin-bottom: 2%;
 }
-#page17 h2{
+#page18 h2{
 	font-size: 42px;
 	margin-left: 20px;
 	color: rgb(0, 136, 150);
@@ -439,66 +439,66 @@
 	margin-top: 10px;
 	margin-left: 0px;
 }
-#page17 .cont-seta{
+#page18 .cont-seta{
 	width: 100%;
 	float: left;
 	text-align: center;
 	margin-top: 10px;
 }
-#page17 .seta img{
+#page18 .seta img{
 	text-align: center;
 }
-#page17 .lin2{
+#page18 .lin2{
 	float: left;
 }
-#page17 h3{
+#page18 h3{
 	width: 100%;
 	text-align: center;
 	font-size: 14px;
 	color: rgb(43,127,176);
 }
-#page17 .lin2 img{
+#page18 .lin2 img{
 	float: right;
 	width: 45%;
 }
-#page17 .content-texto1{
+#page18 .content-texto1{
 	overflow: auto;
 	height: 440px;
 	float: left;
 }
-#page18 .tabela5{
+#page19 .tabela5{
 	float: left;
 	width: 50%;
 	margin-right: 10%;
 }
-#page18 .tabela5 img{
+#page19 .tabela5 img{
 	width: 100%;
 }
-#page18 .tabela6{
+#page19 .tabela6{
 	float: left;
 	width: 40%;
 	margin-top: 200px;
 }
-#page18 .tabela6 img{
+#page19 .tabela6 img{
 	width: 100%;
 }
-#page18 .tabela7{
+#page19 .tabela7{
 	float: left;
 	width: 40%;
 	margin-right: 10%;
 }
-#page18 .tabela7 img{
+#page19 .tabela7 img{
 	width: 100%;
 }
-#page18 .legenda{
+#page19 .legenda{
 	margin-top: 0px;
 	font-size: 12px;
 	line-height: 15px;
 }
-#page18 .legenda.branco{
+#page19 .legenda.branco{
 	color: #fff !important;
 }
-#page18 .caixa-texto{
+#page19 .caixa-texto{
 	float: left;
 	width: 46%;
 	padding: 2%;
@@ -506,7 +506,7 @@
 	margin-top: 100px;
 	background-repeat: no-repeat;
 }
-#page19 h2{
+#page20 h2{
 	font-size: 42px;
 	margin-left: 20px;
 	color: rgb(251, 185, 17);
@@ -517,87 +517,87 @@
 	margin-top: 10px;
 	margin-left: 0px;
 }
-#page19 .caixa-aspas{
+#page20 .caixa-aspas{
 	float: right;
 	width: 54%;
 	margin-right: 5%;
 	margin-bottom: 5%;
 	margin-top: 10%;
 }
-#page19 .caixa-texto p{
+#page20 .caixa-texto p{
 	color: #fff;	
 	text-align: center;
 	text-transform: none;
 }
-#page19 .caixa-texto2{
+#page20 .caixa-texto2{
 	float: left;
 	width: 50%;
 	padding: 5%;
 	background-image: url('../img/bg-texto-claro.png');
 	background-size: 100% 100%;
 }
-#page19 .caixa-texto{
+#page20 .caixa-texto{
 	overflow: auto;
 	height: 110px;
 }
-#page20 .lin1{
+#page21 .lin1{
 	width: 100%;
 	height: 340px;
 	overflow: auto;
 }
-#page20 .caixa-aspas{
+#page21 .caixa-aspas{
 	float: left;
 	width: 100%;
 	margin-right: 20px;
 	text-align: center;
 }
-#page20 .caixa-aspas img{
+#page21 .caixa-aspas img{
 	width: 423px;
 }
-#page20 .caixa-texto{
+#page21 .caixa-texto{
 	width: 423px;
 	overflow: auto;
 	margin: 0 auto;
 	padding-left: 10px;
 	padding-right: 10px;
 }
-#page20 .caixa-texto p{
+#page21 .caixa-texto p{
 	color: rgb(75,173,49);
 	text-align: center;
 	text-transform: none;
 	margin-top: 0px;
 	margin-bottom: 0px;
 }
-#page20 .grafico{
+#page21 .grafico{
 	width: 100%;
 	margin-top: 20px;
 	float: left;
 	text-align: center;
 }
-#page20 .grafico img{
+#page21 .grafico img{
 	width: 90%;
 }
-#page20 .legenda{
+#page21 .legenda{
 	width: 90%;
 	text-align: right;
 	margin: 0 auto;
 }
-#page20 .legenda p{
+#page21 .legenda p{
 	text-align: right;
 	margin-top: 0px;
 }
-#page20 .cont-seta{
+#page21 .cont-seta{
 	width: 100%;
 	float: left;
 	text-align: center;
 	margin-top: 10px;
 }
-#page20 .seta img{
+#page21 .seta img{
 	text-align: center;
 }
 
 
-#page21 h2{
+#page22 h2{
 	font-size: 42px;
 	margin-left: 20px;
 	color: rgb(251, 185, 17);
@@ -610,10 +610,10 @@
 	width: 100%;
 	text-align: center;
 }
-#page21 p{
+#page22 p{
 	text-indent: 20px;
 }
-#page22 h2{
+#page23 h2{
 	font-size: 42px;
 	margin-left: 20px;
 	color: rgb(119, 190, 155);
@@ -624,47 +624,6 @@
 	margin-top: 10px;
 	margin-left: 0px;
 }
-#page22 .cadastro{
-	float: right;
-	margin-top: 5px;
-	width: 50%;
-}
-#page22 .cadastro img{
-	width: 100%;
-}
-#page22 h3{
-	font-size: 24px;
-	color: rgb(70,71,73);
-	font-family: "Nexa Bold", sans-serif;
-	text-transform: none;
-	text-shadow: none;
-	margin-bottom: 0px;
-	margin-top: 20px;
-	margin-left: 0px;
-}
-#page22 h4{
-	font-size: 18px;
-	color: rgb(70,71,73);
-	font-family: "Nexa Bold", sans-serif;
-	text-transform: none;
-	text-shadow: none;
-	margin-bottom: 10px;
-	margin-top: 10px;
-	margin-left: 0px;
-	width: 100%;
-	text-align: center;
-}
-#page22 .grafico{
-	width: 100%;
-}
-#page22 .grafico img{
-	width: 100%;
-}
-#page22 .legenda p{
-	margin-top: 0px;
-	text-align: right;
-}
-
 #page23 .cadastro{
 	float: right;
 	margin-top: 5px;
@@ -683,6 +642,18 @@
 	margin-top: 20px;
 	margin-left: 0px;
 }
+#page23 h4{
+	font-size: 18px;
+	color: rgb(70,71,73);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: none;
+	text-shadow: none;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	margin-left: 0px;
+	width: 100%;
+	text-align: center;
+}
 #page23 .grafico{
 	width: 100%;
 }
@@ -693,50 +664,79 @@
 	margin-top: 0px;
 	text-align: right;
 }
+
+#page24 .cadastro{
+	float: right;
+	margin-top: 5px;
+	width: 50%;
+}
+#page24 .cadastro img{
+	width: 100%;
+}
+#page24 h3{
+	font-size: 24px;
+	color: rgb(70,71,73);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: none;
+	text-shadow: none;
+	margin-bottom: 0px;
+	margin-top: 20px;
+	margin-left: 0px;
+}
+#page24 .grafico{
+	width: 100%;
+}
+#page24 .grafico img{
+	width: 100%;
+}
+#page24 .legenda p{
+	margin-top: 0px;
+	text-align: right;
+}
 #page24 #capa{
 	width:100%;	
 	margin-left: -3%;
 }
-#page24 img{
+#page25 img{
 	width: 105%;
 }
-#page24 #texto{
+#page25 #texto{
 	width:100%;	
 	height: 340px;
 	overflow:auto;
 	float:left;
 }
-#page25 #conteudo{
+#page26 #conteudo{
 	width:100%;
 }
 
-#page25 h1{
+#page26 h1{
 	font-size:42px;
 	font-family:"Nexa Bold", sans-serif;
 	color:rgb(75,181,126);
 }
 
-#page25 h2{
+#page26 h2{
 	font-size:15px;
 	font-family:"gota", sans-serif;
 	color:rgb(141,149,151);
 }
-#page25 #slider {
+#page26 #slider {
 	width: 95%;
 	height: 40%;
 	position: fixed;
 	bottom: 90px;
 	overflow: hidden;
 }
-#page25 #slider img{
+#page26 #slider img{
 	position: absolute;
 	width: 100%;
 	display: none;
 }
-#page25 #slider img.ativo{
+#page26 #slider img.ativo{
 	display: block;
 }
-#page25 h1{
+#page26 h1{
 	font-size: 24px;
 	color: rgb(75,181,126);
 	font-family: "Nexa Bold", sans-serif;
@@ -747,11 +747,11 @@
 	margin-left: 0px;
 	padding-left: 0;
 }
-#page25 .cont-textos{
+#page26 .cont-textos{
 	height :400px;
 	overflow: auto;
 }
-#page25 #ante{
+#page26 #ante{
 	background-image: url("../img/ante.png");
 	width: 60px;
 	height: 60px;
@@ -762,7 +762,7 @@
 	bottom: 300px;
 	cursor: pointer;
 }
-#page25 #prox{
+#page26 #prox{
 	background-image: url("../img/prox.png");
 	width: 60px;
 	height: 60px;

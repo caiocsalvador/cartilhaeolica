@@ -199,7 +199,7 @@ h1 {
 	background-repeat: no-repeat;
 }
 #page15 {
-	background-image: url('../img/pages/bg.jpg');
+	background-image: url('../img/pages/page15.jpg');
 	background-position: center;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
@@ -217,31 +217,31 @@ h1 {
 	background-repeat: no-repeat;
 }
 #page18 {
-	background-image: url('../img/pages/page18.jpg');
+	background-image: url('../img/pages/bg.jpg');
 	background-position: center;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
 #page19 {
-	background-image: url('../img/pages/page19.jpg');
+	background-image: url('../img/pages/page18.jpg');
 	background-position: center;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
 #page20 {
-	background-image: url('../img/pages/bg.jpg');
+	background-image: url('../img/pages/page19.jpg');
 	background-position: center;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
 #page21 {
-	background-image: url('../img/pages/page21.jpg');
+	background-image: url('../img/pages/bg.jpg');
 	background-position: center;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
 #page22 {
-	background-image: url('../img/pages/bg.jpg');
+	background-image: url('../img/pages/page21.jpg');
 	background-position: center;
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
@@ -253,6 +253,12 @@ h1 {
 	background-repeat: no-repeat;
 }
 #page24 {
+	background-image: url('../img/pages/bg.jpg');
+	background-position: center;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+#page25 {
 	background-image: url('../img/pages/page24.jpg');
 	background-position: center;
 	background-size: 100% 100%;
@@ -264,4 +270,15 @@ h1 {
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 }
-
+#page26 {
+	background-image: url('../img/pages/bg.jpg');
+	background-position: center;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+#page27 {
+	background-image: url('../img/pages/page27.jpg');
+	background-position: center;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}

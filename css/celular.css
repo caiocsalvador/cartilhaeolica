@@ -1,5 +1,12 @@
-@media all and (max-width:400px) and (min-width:321px){
+@media all and (max-width:400px){
 
+.smart{
+	display: block;	
+}
+.ipad{
+	display: none;
+}
+	
 p{
 	font-size: 12px;
 	line-height: 20px;
@@ -53,5 +60,731 @@ h1 {
 	padding-left: 0px;
 	padding-right: 15px;
 }
+
+.prev{
+	width: 50px;
+	height: 50px;
+	bottom: 3%;
+	left: 1%;
+	position: absolute;
+}
+.next{
+	width: 50px;
+	height: 50px;
+	bottom: 3%;
+	right: 1%;
+	position: absolute;
+}
+#page4 .cont-seta{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+}
+#page4 .seta img{
+	text-align: center;
+}
+
+#page5 h2{
+	font-size: 22px;
+}
+#page5 .caixa-aspas{
+	float: right;	
+	width: 100%;	
+}
+#page5 .caixa-aspas img{	
+	width: 100%;
+}
+#page5 .caixa-texto-bg{
+	float: left;
+	width: 100%;
+	height: 150px;
+	overflow: auto;
+	margin-top: 10%;
+}
+#page5 .caixa-texto{
+	overflow: auto;
+	height: 115px;	
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#page5 .caixa-texto p{
+	color: #fff;	
+	text-align: center;
+	text-transform: none;
+}
+
+
+#page6 {
+background-image: none;
+background-position: center;
+background-color: #fff;
+background-repeat: no-repeat;
+}
+#page6 .tabela1 img{
+	width: 100%;
+}
+#page6 .tabela1 img{
+	width: 100%;
+}
+#page6 .tabela2{
+	margin-bottom: 50px;
+}
+#page6 .tabela2 img{
+	width: 100%;
+}
+
+#page7 .texto-top{
+	width: 100%;
+	height: 150px;
+	overflow: auto;
+	margin-bottom: 10px;
+}
+#page7 .grafico img{
+	width: 100%;
+	margin-bottom: 10px;
+}
+#page7 .legenda p{
+	margin-top: 0px;
+}
+#page7 .caixa-aspas img{
+	width: 100%;
+}
+#page7 .caixa-aspas p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#page7 .col2 p{
+	width: 100%;
+	height: 100px;
+	overflow: auto;
+}
+#page7 .cont-seta{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+}
+#page7 .seta img{
+	text-align: center;
+}
+#page7 .col1 .chave{
+	width: 100%;
+	text-align: center;
+}
+#page7 .col1 .chave img{
+	width: 70%;	
+}
+#page7 .col1 p{
+	text-align: center;
+	width: 90%;
+	padding: 5%;
+	padding-top: 0px;
+	margin-top: 0px
+}
+#page7 .nova .chave{
+	width: 100%;
+	text-align: center;
+}
+#page7 .nova .chave img{
+	width: 70%;	
+}
+#page7 .nova p{
+	text-align: center;
+	width: 90%;
+	padding: 5%;
+	padding-top: 0px;
+	margin-top: 0px
+}
+.page7 .col1{
+	margin-top: 10px;
+	float: left;
+}
+#page7 h2{
+	font-size: 20px;
+	color: rgb(195, 204, 90);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: none;
+	float: left;
+	width: 100%;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	text-align: center;
+}
+#page7 .nova{
+	margin-bottom: 50px;
+	float: left;
+}
+#page7 .ultima-linha{
+	float: left;
+	margin-top: 10px;
+}
+
+
+#page8 h2 {
+	font-size: 20px;
+	margin-left: 20px;
+	color: rgb(195, 204, 90);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: capitalize;
+	text-shadow: none;
+	margin-bottom: 0px;
+}
+#page8 .caixa-aspas{
+	float: right;
+	width: 100%;	
+}
+#page8 .caixa-texto{
+	overflow: auto;
+	height: 140px;	
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#page8 .caixa-texto p{
+	text-align: center;
+	text-transform: none;
+}
+#page8 .container-caixa {
+	float: right;
+	height: 250px;
+	width: 100%;	
+	background-image: url('../img/bg-texto2.png');
+	background-position: center;
+	background-size: 100% 100%;	
+}
+#page8 .caixa-texto-bg{
+	overflow: auto;
+	height: 200px;
+}
+#page8 .caixa-texto-bg p {
+	text-transform: none;
+	text-align: left;
+	text-indent: 5px;
+	font-size: 12px;
+	line-height: 15px;
+	padding: 5px;
+	padding-top: 10px;
+	color: rgb(52, 72, 93);
+}
+#page8 .obs{
+	width: 100%;
+	float: left;
+}
+#page8 .caixa-aspas img{
+	width: 100%;
+}
+#page8 {
+	background-image: url('../img/pages/page8-mini.jpg');
+	background-position: center;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+#page9 .texto1{
+	width: 100%;
+	float: left;
+	margin-bottom: 1%;
+	text-indent: 5px;
+	height: 140px;
+	overflow: hidden;
+}
+#page9 .caixa-aspas{
+	margin: 0 auto;
+	width: 100%;
+	padding-bottom: 1%;
+	float: left	
+}
+#page9 .caixa-texto{
+	overflow: auto;
+	height: 10%;	
+	padding-left: 5px;
+	padding-right: 5px;
+}
+#page9 .caixa-aspas img{
+	width: 100%;
+}
+#page9 .caixa-texto p{
+	color: rgb(13,63,90);	
+	text-align: center;
+	text-transform: none;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#page9 .imagem{
+	float: left;
+	width: 100%;
+}
+#page9 .imagem img{	
+	width: 100%;
+}
+#page9 .imagem .legenda{	
+	margin-top: 0px;
+	font-size: 12px;
+	line-height: 15px;
+	width: 100%;
+	text-align: center;
+}
+#page9 .imagem .legenda p{	
+	margin-top: 0px;
+	font-size: 12px;
+	line-height: 15px;
+	width: 100%;
+	text-align: center;
+}
+#page9 .container-caixa2 {
+	float: left;
+	height: 140px;
+	width: 100%;
+	overflow: auto;	
+}
+#page9 .seta-verde{
+	float: right;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 140px;
+}
+#page9 .caixa-texto2 img{
+	text-align: center;
+}
+
+#page10 h2{
+	font-size: 20px;
+	color: rgb(8, 48, 70);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: none;
+	text-shadow: none;
+	margin-bottom: 0px;
+}
+#page10 .texto-grande {	
+	background-image: url("../img/bg-texto-verde.png");
+	background-size: 100% 100%;
+	background-position: center;
+	padding: 6%;
+}
+#page10 .img-grafico{
+	width: 100%;
+	text-align: center;
+}
+#page10 .img-grafico img{
+	width: 100%;
+}
+#page10 .legenda {
+	width: 100%;
+	text-align: center;
+	margin: 0 auto;
+	float: left;
+	margin-bottom: 50px;
+}
+#page10 .legenda1{
+	width: 100%;
+	float: left;
+	margin-top: 0px;
+	font-size: 14px;
+	line-height: 14px;
+}
+#page10 .legenda2{
+	width: 100%;
+	float: right;
+	margin-top: 0px;
+	font-size: 14px;
+}
+
+#page11 .grafico1{
+	width: 100%;
+	margin-bottom: 10%;
+	text-align: center;
+}
+#page11 .grafico1 img {
+	width: 100%;
+}
+#page11 .grafico2{
+	width: 100%;
+	float: right;
+	text-align: center;
+	margin-bottom: 50px;
+}
+#page11 .grafico2 img{
+	width: 100%;
+}
+#page14 .tabela{
+	width: 100%;
+}
+#page14 .tabela img{
+	width: 100%;
+}
+#page15 .legenda{
+	width: 100%;
+	position: absolute;
+	float: left;
+	bottom: 30px;
+	text-align: center;
+}
+#page16 .tabela1{
+	width: 100%;
+}
+#page16 .tabela1 img{
+	width: 100%;
+}
+#page16 .tabela2{
+	width: 100%;
+}
+#page16 .tabela2 img{
+	width: 100%;
+}
+#page17 .grafico{
+	width: 100%;
+}
+#page17 .grafico img{
+	width: 100%;
+}
+
+#page18 h2{
+	font-size: 20px;	
+	color: rgb(0, 136, 150);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: capitalize;
+	text-shadow: none;
+	margin-bottom: 10px;	
+	margin-left: 0px;
+}
+#page18 .cont-seta{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+}
+#page18 .seta img{
+	text-align: center;
+}
+#page18 .lin2{
+	float: left;
+}
+#page18 h3{
+	width: 100%;
+	text-align: center;
+	font-size: 14px;
+	color: rgb(43,127,176);
+}
+#page18 .lin2 img{
+	float: right;
+	width: 100%;
+}
+#page18 .content-texto1{
+	overflow: auto;
+	height: 250px;
+	float: left;
+}
+#page18 .lin2{
+	margin-bottom: 50px;
+}
+
+#page19 .tabela5{
+	float: left;
+	width: 100%;
+	margin-right: 10%;
+}
+#page19 .tabela5 img{
+	width: 100%;
+}
+#page19 .tabela6{
+	float: left;
+	width: 100%;	
+}
+#page19 .tabela6 img{
+	width: 100%;
+}
+#page19 .tabela7{
+	float: left;
+	width: 100%;	
+}
+#page19 .tabela7 img{
+	width: 100%;
+}
+#page19 .legenda{
+	margin-top: 0px;
+	font-size: 12px;
+	line-height: 15px;
+}
+#page19 .legenda.branco{
+	color: #fff !important;
+}
+#page19 .caixa-texto{
+	float: left;
+	width: 100%;
+	padding: 2%;
+	background-image: url("../img/bg-texto.png");
+	background-repeat: no-repeat;
+	margin-bottom: 50px;
+}
+
+#page20 h2{
+	font-size: 20px;
+	margin-left: 20px;
+	color: rgb(251, 185, 17);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: none;
+	text-shadow: none;	
+	margin-left: 0px;
+}
+#page20 .caixa-aspas{
+	float: right;
+	width: 100%;	
+	margin-top: 2%;
+}
+#page20 .caixa-texto p{	
+	text-align: center;
+	text-transform: none;
+}
+#page20 .caixa-texto2{
+	float: left;
+	width: 90%;
+	padding: 5%;
+	background-image: url('../img/bg-texto-claro.png');
+	background-size: 100% 100%;
+	margin-bottom: 30px;
+}
+#page20 .caixa-texto{
+	overflow: auto;
+	height: 110px;
+}
+
+#page21 .lin1{
+	width: 100%;
+	height: 180px;
+	overflow: auto;
+}
+#page21 .caixa-aspas{
+	float: left;
+	width: 100%;	
+	text-align: center;
+}
+#page21 .caixa-aspas img{
+	width: 100%;
+}
+#page21 .caixa-texto{
+	width: 100%;
+	overflow: auto;
+	margin: 0 auto;	
+}
+#page21 .caixa-texto p{
+	color: rgb(75,173,49);
+	text-align: center;
+	text-transform: none;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#page21 .grafico{
+	width: 100%;
+	margin-top: 5px;
+	float: left;
+	text-align: center;
+	margin-bottom: 30px;
+}
+#page21 .grafico img{
+	width: 100%;
+}
+#page21 .legenda{
+	width: 100%;
+	text-align: right;
+	margin: 0 auto;
+}
+#page21 .legenda p{
+	text-align: right;
+	margin-top: 0px;
+}
+#page21 .cont-seta{
+	width: 100%;
+	float: left;
+	text-align: center;
+	margin-top: 10px;
+}
+#page21 .seta img{
+	text-align: center;
+}
+
+#page22 h2{
+	font-size: 20px;
+	margin-left: 20px;
+	color: rgb(251, 185, 17);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: none;
+	text-shadow: none;
+	margin-bottom: 5px;
+	margin-top: 5px;	
+	width: 100%;
+	text-align: center;
+}
+#page22 p{
+	text-indent: 20px;
+	width: 100%;
+	height: 220px;
+	overflow: auto;
+}
+
+#page23 h2{
+	font-size: 20px;	
+	color: rgb(119, 190, 155);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: none;
+	text-shadow: none;
+	margin-bottom: 5px;	
+	margin-left: 0px;
+}
+#page23 .cadastro{
+	float: right;
+	margin-top: 5px;
+	width: 100%;
+}
+#page23 .cadastro img{
+	width: 100%;
+}
+#page23 h3{
+	font-size: 16px;
+	color: rgb(70,71,73);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: none;
+	text-shadow: none;
+	margin-bottom: 0px;
+	margin-top: 5px;
+	margin-left: 0px;
+}
+#page23 h4{
+	font-size: 15px;
+	color: rgb(70,71,73);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: none;
+	text-shadow: none;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	margin-left: 0px;
+	width: 100%;
+	text-align: center;
+}
+#page23 .grafico{
+	width: 100%;
+	margin-bottom: 50px;
+}
+#page23 .grafico img{
+	width: 100%;
+}
+#page23 .legenda p{
+	margin-top: 0px;
+	text-align: right;
+}
+
+#page24 .cadastro{
+	float: right;
+	margin-top: 5px;
+	width: 100%;
+}
+#page24 .cadastro img{
+	width: 100%;
+}
+#page24 h3{
+	font-size: 20px;
+	color: rgb(70,71,73);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: none;
+	text-shadow: none;
+	margin-bottom: 0px;
+	margin-top: 5px;
+	margin-left: 0px;
+}
+#page24 .grafico{
+	width: 100%;
+}
+#page24 .grafico img{
+	width: 100%;
+}
+#page24 .legenda p{
+	margin-top: 0px;
+	text-align: right;
+	margin-bottom: 70px;
+}
+#page25 #capa{
+	width:100%;	
+	margin-left: -3%;
+}
+#page25 img{
+	width: 105%;
+}
+#page25 #texto{
+	width:100%;	
+	height: 340px;
+	overflow:auto;
+	float:left;
+	text-align: justify;
+	margin-bottom: 50px;
+}
+
+#page26 h1{
+	font-size:22px;
+	font-family:"Nexa Bold", sans-serif;
+	color:rgb(75,181,126);
+}
+
+#page26 h2{
+	font-size:15px;
+	font-family:"gota", sans-serif;
+	color:rgb(141,149,151);
+}
+#page26 #slider {
+	width: 90%;
+	height: 40%;
+	position: fixed;
+	bottom: 60px;
+}
+#page26 #slider img{
+	position: absolute;
+	width: 100%;
+	display: none;
+}
+#page26 #slider img.ativo{
+	display: block;
+}
+#page26 h1{
+	font-size: 18px;
+	color: rgb(75,181,126);
+	font-family: "Nexa Bold", sans-serif;
+	text-transform: none;
+	text-shadow: none;
+	margin-bottom: 0px;
+	padding-top: 10px;
+	margin-left: 0px;
+	padding-left: 0;
+}
+#page26 .cont-textos{
+	height: 200px;
+	overflow: auto;
+}
+#page26 #ante{
+	background-image: url("../img/ante.png");
+	width: 40px;
+	height: 40px;
+	background-size: 100% 100%;
+	position: absolute;
+	z-index: 9;
+	left: 30px;
+	bottom: 175px;
+	cursor: pointer;
+}
+#page26 #prox{
+	background-image: url("../img/prox.png");
+	width: 40px;
+	height: 40px;
+	background-size: 100% 100%;
+	position: absolute;
+	z-index: 9;
+	right: 30px;
+	bottom: 175px;
+	cursor: pointer;
+}
+.smart{
+	display: none;
+}
+.ipad{
+	display: block;	
+}
+
+
 
 }
